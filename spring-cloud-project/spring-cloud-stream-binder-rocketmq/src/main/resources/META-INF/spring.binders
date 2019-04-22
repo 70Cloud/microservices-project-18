@@ -1,0 +1,2 @@
+rocketmq=\
+pers.qly.micro.services.spring.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinderConfiguration
